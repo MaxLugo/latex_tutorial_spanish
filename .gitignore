@@ -1,0 +1,8 @@
+#ignore the virtual enviorment
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+doc.synctex.gz
