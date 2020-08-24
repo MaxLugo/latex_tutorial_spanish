@@ -11,7 +11,7 @@ Editores: Texworks, lyx, texmaker, swp,... Se recomienda texmaker.
 
 Links de descarga:
 
-Link para descargar texlive (se recomienda en la opción Full su instalación). 
+Link para descargar texlive (se recomienda en la opción Full en su instalación). 
 https://tug.org/texlive/acquire-netinstall.html
 
 Link para descargar texmaker
